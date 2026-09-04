@@ -47,4 +47,4 @@ Note
 Image sizes vary across the dataset.
 Preprocessing steps such as resizing, normalization, and margin removal (sample code) are recommended before training models.
 Proper preprocessing can significantly improve model performance.
-If you find this dataset useful for your research, please consider upvoting it. Feedback and suggestions are welcome. ❤️
+If you find this dataset useful for your research, please consider upvoting it. Feedback and suggestions are welcome.
